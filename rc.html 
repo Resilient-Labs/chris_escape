@@ -1,40 +1,39 @@
-<doctype html!>
-
-
-<body>
-
-
-
+<!DOCTYPE html>
+<html>
 <head>
-
-<img src="/Resilient-Labs/chris_escape/blob/master/Screenshot.png?raw=true" alt="Screenshot.png">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  <meta charset="utf-8">
+  <title>Escape</title>
 </head>
+<body>
+  <img src="https://raw.githubusercontent.com/Resilient-Labs/chris_escape/master/Screenshot.png">
 
-</body>
+</body> 
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</
